@@ -1,0 +1,7 @@
+C:\Users\Raul\Documents\Visual Studio 2017\Projects\SolucionAppDesafio\appDesafio\bin\Debug\appDesafio.exe.config
+C:\Users\Raul\Documents\Visual Studio 2017\Projects\SolucionAppDesafio\appDesafio\bin\Debug\appDesafio.exe
+C:\Users\Raul\Documents\Visual Studio 2017\Projects\SolucionAppDesafio\appDesafio\bin\Debug\appDesafio.pdb
+C:\Users\Raul\Documents\Visual Studio 2017\Projects\SolucionAppDesafio\appDesafio\obj\Debug\appDesafio.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\Visual Studio 2017\Projects\SolucionAppDesafio\appDesafio\obj\Debug\appDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\Visual Studio 2017\Projects\SolucionAppDesafio\appDesafio\obj\Debug\appDesafio.exe
+C:\Users\Raul\Documents\Visual Studio 2017\Projects\SolucionAppDesafio\appDesafio\obj\Debug\appDesafio.pdb
